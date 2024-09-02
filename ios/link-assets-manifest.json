@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "asset/fonts/Mitr-Bold.ttf",
+      "sha1": "507224116f60be6c731e7dce3b0d0e8ecdf43b83"
+    },
+    {
+      "path": "asset/fonts/Mitr-Medium.ttf",
+      "sha1": "ae9cbd2565c7cfef0e6b23a4c29f4d26e2ab2775"
+    },
+    {
+      "path": "asset/fonts/Mitr-Regular.ttf",
+      "sha1": "25281f084fb2e977963c7d2e8a5d68d1ba657f28"
+    },
+    {
+      "path": "asset/fonts/Mitr-SemiBold.ttf",
+      "sha1": "556a47584024f914ff55c8cb6eb0a92b517ae580"
+    }
+  ]
+}
